@@ -1,0 +1,13 @@
+{
+    "dependencies": {
+        "compressjs": "*",
+        "overflow-js": "*",
+        "yargs": "*"
+    },
+    "description": "A library and front-end for reading Jagex's proprietary cache format for RuneScape Classic.",
+    "license": "AGPL-3.0-or-later",
+    "main": "jagarc.js",
+    "name": "jagarc",
+    "url" : "https://github.com/subjectivelyobjective",
+    "version": "0.1.1"
+}
